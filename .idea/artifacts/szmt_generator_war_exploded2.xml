@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="szmt_generator:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/szmt_generator_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="szmt_generator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="szmt_generator" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
